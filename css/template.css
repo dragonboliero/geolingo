@@ -1,0 +1,38 @@
+body{
+    text-align: center;
+    color: white;
+}
+
+footer{
+    background-color: rgb(216, 29, 29);
+    border-radius: 3px;
+    margin: -20px 50px 0 50px;  
+}
+
+header{
+    background-color: rgb(216, 29, 29);
+    border-radius: 3px;
+    margin: 0 200px 0 200px;
+}
+
+header a{
+    text-decoration: none;
+}
+
+header button{
+    background-color: burlywood;
+    border: transparent;
+    border-radius: 2px;
+    font-size: 20px;
+    margin: 2px;
+}
+
+header h1{
+    margin-bottom: 10px;
+}
+
+main{
+    background-color: rgb(216, 29, 29);
+    border-radius: 3px;
+    margin: -10px 50px 0 50px;
+}
