@@ -1,0 +1,29 @@
+main{
+    margin-top: 10px;
+    padding: 20px 0;
+}
+
+main button{
+    color: white;
+    background-color: rgb(236, 201, 0);
+    border: transparent;
+    border-radius: 2px;
+    width: 15%;
+    font-size: 30px;
+}
+
+main button:hover{
+    background-color: rgb(236, 214, 85);  
+}
+
+main p{
+    background-color: rgb(236, 201, 0);
+    border-radius: 2px;
+    margin: auto auto;
+}
+
+.geo-letter{
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.2);
+    font-size: 30px;
+    width: 15%;
+}

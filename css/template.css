@@ -3,16 +3,25 @@ body{
     color: white;
 }
 
+button{
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.2);
+}
+
 footer{
     background-color: rgb(216, 29, 29);
     border-radius: 3px;
-    margin: -20px 50px 0 50px;  
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.2);
+    margin: -20px auto 0 auto;
+    width: 80%;  
 }
 
 header{
     background-color: rgb(216, 29, 29);
     border-radius: 3px;
-    margin: 0 200px 0 200px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.2);
+    margin: 0 auto;
+    padding-bottom: 10px;
+    width: 80%;
 }
 
 header a{
@@ -34,5 +43,7 @@ header h1{
 main{
     background-color: rgb(216, 29, 29);
     border-radius: 3px;
-    margin: -10px 50px 0 50px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.2);
+    margin: -10px auto 0 auto;
+    width: 80%;
 }
