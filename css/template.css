@@ -26,6 +26,7 @@ header{
 
 header a{
     text-decoration: none;
+    color: white;
 }
 
 header button{
@@ -34,6 +35,10 @@ header button{
     border-radius: 2px;
     font-size: 20px;
     margin: 2px;
+}
+
+header button:hover{
+    background-color: rgb(224, 201, 170);  
 }
 
 header h1{
