@@ -45,6 +45,12 @@ header h1{
     margin-bottom: 10px;
 }
 
+h1 > img{
+    border-radius: 50px;
+    width: 100px;
+    height: 100px;
+}
+
 main{
     background-color: rgb(216, 29, 29);
     border-radius: 3px;
